@@ -3,7 +3,7 @@
 //  CrayonBox
 //
 //  Created by Michael Dawson on 5/03/11.
-//  Copyright 2011 Nuance. All rights reserved.
+//  Copyright 2011 Nippysaurus. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
